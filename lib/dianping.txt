@@ -1,0 +1,46 @@
+NE08226650142
+
+
+ 1.      OS：
+
+l   进程与线程的区别
+
+2.      Java：
+
+l   hashMap的实现
+
+l   垃圾回收机制
+
+l   成员变量的空间分配
+
+3.      C：
+
+l   malloc的空间分配
+
+4.      算法：
+
+l   单链表是否有环
+
+l   快排
+
+5.      DB：
+
+l   通常情况join是如何实现的
+
+l   两张很大的表示如何实现join的
+
+6.      Hadoop：
+
+l   介绍HDFS和MapReduce中的成员
+
+l   Master存储的元数据
+
+l   Writable的作用
+
+l   Partitioner的作用
+
+l   如何实现全排序
+
+l   Map的数目由什么决定
+
+l   用MapReduce完成join操作
