@@ -1,3 +1,0 @@
-[submodule "bdd_framework"]
-	path = bdd_framework
-	url = ssh://git@stash.draeger.com:7999/mul/bdd_framework.git
